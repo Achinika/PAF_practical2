@@ -1,0 +1,22 @@
+practical -2 
+
+https://github.com/Achinika/PAF_practical2.git
+
+git clone- 
+-
+-used to get the copy version of your project in github to the git
+
+why use braches- do error fixing, new codes seperatly without harming the initial code
+
+
+git init repo_name : start new repo
+
+git checkout -b: to create a new branch & access imidiately to that branch
+
+pull request- to propopse new changes to the repository
+
+"D:\3rd Year\3rd Yr 2nd Sem\PAF practical\WE_p2"
+cd C:\Users\YOUR_USERNAME\Documents\MyProject
+git clone https://github.com/USERNAME/REPOSITORY.git
+
+D:\3rd Year\3rd Yr 2nd Sem\PAF practical\WE_p2\PAF_practical2
